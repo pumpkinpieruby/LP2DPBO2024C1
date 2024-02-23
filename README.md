@@ -32,6 +32,7 @@ Program ini memiliki alur mulai dari objek Shirt, mengisi nilai atribut-atribut 
 ![Java](<java/Screenshot 2024-02-16 153252.png>)
 
 ## Dokumentasi CPP
-
+![cpp](<CPP/Screenshot 2024-02-23 092904.png>)
 
 ## Dokumentasi Python
+![py](<python/Screenshot 2024-02-23 092639.png>)
